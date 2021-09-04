@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufekrembm
 - 👀 I’m interested in Artificial İntellegince, Machine Learning and E-commerce 
-- 🌱 I’m currently learning C# CSS HTML JS
+- 🌱 I’m currently learning C# CSS HTML JS ASP.NET ENTİTY FRAMEWORK
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT AND E-COMMERCE
 - 📫 How to reach me 
 Instagram : makavelirsm
