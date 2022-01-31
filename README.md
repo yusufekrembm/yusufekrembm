@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning C# Unreal Engine 5 Unity Lua
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me 
-Instagram : makavelirsm
+Instagram : yusufeekrem
 Twitter: twitter.com/YusufEkrem17
 Discord: discord.gg/kMvBj2F
-Github: inkedin.com/in/yusufekrembm/
+Github: linkedin.com/in/yusufekrembm/
 
 
 <!---
