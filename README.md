@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusufekrembm
-- 👀 I’m interested in Artificial İntellegince, Machine Learning and E-commerce 
-- 🌱 I’m currently learning C# CSS HTML JS ASP.NET ENTİTY FRAMEWORK
-- 💞️ I’m looking to collaborate on WEB DEVELOPMENT AND E-COMMERCE
+- 👀 I’m interested in Games 
+- 🌱 I’m currently learning C# Unreal Engine 5 Unity Lua
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me 
 Instagram : makavelirsm
 Twitter: twitter.com/YusufEkrem17
