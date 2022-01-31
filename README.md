@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusufekrembm
 - 👀 I’m interested in Games 
-- 🌱 I’m currently learning C# Unreal Engine 5 Unity Lua
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m currently learning C# Unreal Engine 5 Unity and Lua Software Language.
+- 💞️ I’m looking to collaborate on Games Development.
 - 📫 How to reach me 
 Instagram : yusufeekrem
 Twitter: twitter.com/YusufEkrem17
