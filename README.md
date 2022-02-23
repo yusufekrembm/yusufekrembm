@@ -5,13 +5,13 @@ I have a great interest in Unity, C#, Python Java&Kotlin and Javascript language
 - 💞️ I mainly do game software and mobile programming.
 - 📫 If you want to reach me, you can reach me from the links below
 
-Instagram : www.instagram.com/yusufeekrem
+-->Instagram : www.instagram.com/yusufeekrem
 
-Twitter: www.twitter.com/YusufEkrem17
+-->Twitter: www.twitter.com/YusufEkrem17
 
-Discord: www.discord.gg/kMvBj2F
+-->Discord: www.discord.gg/kMvBj2F
 
-Linkednn: www.linkedin.com/in/yusufekrembm/
+-->Linkednn: www.linkedin.com/in/yusufekrembm/
 
 
 <!---
