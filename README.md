@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @yusufekrembm
-- 👀 I’m interested in Games 
-- 🌱 I’m currently learning C# Unreal Engine 5 Unity and Java/Kotlin Software Language.
-- 💞️ I’m looking to collaborate on Games Development.
-- 📫 How to reach me 
+- 👋 Hi, I’m @yusufekrembm.
+- 👀 I am a Computer Engineering student.
+- 🌱 Since the beginning of my university, I aim to improve myself.
+I have a great interest in Unity, C#, Python Java&Kotlin and Javascript languages.
+- 💞️ I mainly do game software and mobile programming.
+- 📫 If you want to reach me, you can reach me from the links below
 Instagram : yusufeekrem
 Twitter: twitter.com/YusufEkrem17
 Discord: discord.gg/kMvBj2F
