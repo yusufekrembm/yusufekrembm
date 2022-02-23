@@ -7,7 +7,7 @@ I have a great interest in Unity, C#, Python Java&Kotlin and Javascript language
 Instagram : yusufeekrem
 Twitter: twitter.com/YusufEkrem17
 Discord: discord.gg/kMvBj2F
-Github: linkedin.com/in/yusufekrembm/
+Github: www.linkedin.com/in/yusufekrembm/
 
 
 <!---
