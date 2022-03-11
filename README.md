@@ -22,14 +22,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" alt="kotlin" width="40" height="40"</a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/28684/android.svg" alt="android" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="html" width="40" height="40"/> </a>
-</a> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354020/lua.svg" alt="lua" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css" width="40" height="40"/> </a>  </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349402/html5.svg" alt="html" width="40" height="40"/> </a>
+<a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" alt="kotlin" width="40" height="40"</a>
+<a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/28684/android.svg" alt="android" width="40" height="40"/> </a>
+<a href="" target="" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="html" width="40" height="40"/> </a>
+</a> <a href="" target="" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="" target="" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354020/lua.svg" alt="lua" width="40" height="40"/> </a>
+<a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css" width="40" height="40"/> </a>  </a>
+<a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349402/html5.svg" alt="html" width="40" height="40"/> </a>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimatmaca&show_icons=true&locale=en&layout=compact" alt="ibrahimatmaca" /></p>
