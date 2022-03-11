@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" alt="kotlin" width="40" height="40"</a>
+<img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" alt="kotlin" width="40" height="40">
 <a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/28684/android.svg" alt="android" width="40" height="40"/> </a>
 <a href="" target="" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <a href="" target="" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="html" width="40" height="40"/> </a>
