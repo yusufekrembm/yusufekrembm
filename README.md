@@ -1,3 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Ekrem</h1>
-<h3 align="center">Android Developer</h3>
-<h4 align="center">Computer Engineer</h4>
+<h2 align="center">Android Developer</h2>
+
+🏃 I'm currently learning Kotlin,Java,Unity
+🎮 I'm interested in C#,Unity,Kotlin and Java
+
