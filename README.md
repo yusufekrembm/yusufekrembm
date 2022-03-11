@@ -2,17 +2,7 @@
 Hello World 👋, I'm <b>Murari Sabavath</b>
 </h1>
 
-
-```
-   ____     ___   __    __   _______      _____      _______   ___
-  |    \  /    | |  |  |  | |   _   |    /  _  \    |   _   | |   | 
-  |  |\ \/ /|  | |  |  |  | |  |_| _|   /  /_\  \   |  |_| _| |   | 
-  |  | \  / |  | |  |__|  | |  |\  \   /  _____  \  |  |\  \  |   | 
-  |_ |  \/  |_ | \ ______ / |_ | \_ \ /_ /     \_ \ |_ | \_ \ | _ | 
  
-```
-  
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
 
 ## Tech Stack
