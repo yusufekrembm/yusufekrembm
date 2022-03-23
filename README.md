@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Ekrem</h1>
-<h2 align="center">Android Developer</h2>
+<h2 align="center">Mobile App Developer</h2>
 
 - 👀 I am a Computer Engineering student.
 - 👾 I have a great interest in Unity, C#, Python, Java and Kotlin languages.
