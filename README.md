@@ -2,7 +2,7 @@
 <h2 align="center">Mobile App Developer</h2>
 
 - 👀 I am a Computer Engineering student.
-- 👾 I have a great interest in Unity, C#, Python, Java and Kotlin languages.
+- 👾 I have a great interest in Java and Kotlin languages.
 - 💞️ I am currently working on game software and mobile programming.
 <br>
 
