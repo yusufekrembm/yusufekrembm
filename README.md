@@ -40,4 +40,3 @@
       <img align="left" height=175 src="https://github-readme-streak-stats.herokuapp.com/?user=yusufekrembm&theme=react&border=61dafb&hide_border=true" alt="yusufekrekbm" />
     </a>
    <br><br><br><br><br><br><br><br><br><br>
-   <img src="https://activity-graph.herokuapp.com/graph?username=yusufekrembm&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
