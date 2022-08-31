@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/yusufekrembm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufekrembm" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17354442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17354442" height="30" width="40" /></a>
 <a href="https://instagram.com/yusufekrembm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufekrembm" height="30" width="40" /></a>  
-<a href="https://discord.gg/kMvBj2F" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="yusufekrembm" height="30" width="40" /></a>
+<a href="https://discord.gg/7u9qJPMBCU" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="yusufekrembm" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/yusufekrembm" target="blank"><img align="center" src="https://www.svgrepo.com/show/271111/reddit.svg" alt="yusufekrembm" height="30" width="40" /></a>
 </p>
 <br>
