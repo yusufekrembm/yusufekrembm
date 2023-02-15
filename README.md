@@ -3,7 +3,7 @@
 
 - 👀 I am a Computer Engineering student.
 - 👾 I have a great interest in Java and Kotlin languages.
-- 💞️ I am currently working on game software and mobile programming.
+- 💞️ I am currently working on mobile programming.
 <br>
 
 - 📫 How to reach me **yusufekremunlu@gmail.com**
