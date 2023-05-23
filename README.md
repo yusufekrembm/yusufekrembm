@@ -31,9 +31,3 @@
 <a href="javascript:void(0" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354020/lua.svg" alt="lua" width="40" height="40"/> </a>
 <a href="javascript:void(0" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css" width="40" height="40"/> </a>  </a>
 <a href="javascript:void(0" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349402/html5.svg" alt="html" width="40" height="40"/> </a>
-<br>
-<br>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" height=175 src="https://github-readme-streak-stats.herokuapp.com/?user=yusufekrembm&theme=react&border=61dafb&hide_border=true" alt="yusufekrekbm" />
-    </a>
-   <br><br><br><br><br><br><br><br><br><br>
