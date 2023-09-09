@@ -1,8 +1,8 @@
-<p align="center"><img  width="250px" src="https://github.com/yusufekrembm/yusufekrembm/assets/88238748/858bd1be-18ba-489a-ac56-385e7b74132e"></p>
+<p align="center"><img  width="200px" src="https://github.com/yusufekrembm/yusufekrembm/assets/88238748/858bd1be-18ba-489a-ac56-385e7b74132e"></p>
 
 <h1 align="center">Hi , I am Ekrem </h1>
 
-<p align="center" width="100px"> Android Developer </p>
+<p align="center" width="250px"> Android Developer </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufekrembm&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=yusufekrembm&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
