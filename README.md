@@ -1,4 +1,4 @@
-<p align="center"><img  width="450px" src="https://github.com/yusufekrembm/yusufekrembm/assets/88238748/858bd1be-18ba-489a-ac56-385e7b74132e"></p>
+<p align="center"><img  width="250px" src="https://github.com/yusufekrembm/yusufekrembm/assets/88238748/858bd1be-18ba-489a-ac56-385e7b74132e"></p>
 
 <h1 align="center">Hi , I am Ekrem </h1>
 
