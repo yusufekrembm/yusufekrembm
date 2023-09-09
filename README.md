@@ -1,6 +1,6 @@
-<p align="center"><img  width="150px" src="https://github.com/yusufekrembm/yusufekrembm/assets/88238748/858bd1be-18ba-489a-ac56-385e7b74132e"></p>
+<p align="center"><img  width="50px" src="https://github.com/yusufekrembm/yusufekrembm/assets/88238748/858bd1be-18ba-489a-ac56-385e7b74132e"></p>
 
-<h1 align="center">Hi , I am Ekrem </h1>
+<h1 align="center">Hi , I am Yusuf Ekrem </h1>
 
 <p align="center" width="250px"> Android Developer </p>
 
