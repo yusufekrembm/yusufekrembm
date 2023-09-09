@@ -1,4 +1,4 @@
-<p align="center"><img  width="450px" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img  width="450px" src="https://github.com/yusufekrembm/yusufekrembm/assets/88238748/858bd1be-18ba-489a-ac56-385e7b74132e"></p>
 
 <h1 align="center">Hi , I am Ekrem </h1>
 
@@ -16,3 +16,4 @@
 <a href="https://instagram.com/yusufeekrem"><img src="https://img.shields.io/badge/-yusufeekrem-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/YusufEkrem17"><img src="https://img.shields.io/badge/-YusufEkrem17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+
